@@ -1,4 +1,4 @@
-Pillow==6.2.0
+Pillow==8.1.1
 PyYAML==5.1.2
 marshmallow==2.20.0
 marshmallow-dataclass==0.6.6
